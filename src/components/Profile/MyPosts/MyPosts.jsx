@@ -5,7 +5,7 @@ const MyPosts = () => {
     return (
        <div>
            My Posts
-           <div>
+           <div className={s.addPost}>
                <textarea name="" id="" cols="30" rows="10"></textarea>
                <button>Add Post</button>
                New post
