@@ -1,0 +1,15 @@
+.friendImage img {
+    width: 50px;
+    height: 40px;
+    border-radius: 30px;
+}
+
+.friendsBlock {
+    display: inline-block;
+    padding: 5px;
+}
+
+.friendName a {
+    color: white;
+    text-decoration: none;
+}
